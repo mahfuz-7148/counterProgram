@@ -1,0 +1,15 @@
+#countNumber {
+    font-size: 10em;
+    text-align: center;
+    display: block;
+
+}
+
+#container {
+    text-align: center;
+}
+
+.buttons {
+    padding: 10px 30px;
+    font-size: 2em;
+}
